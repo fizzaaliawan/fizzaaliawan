@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **beginner-friendly projects in Python, web dev, or AI applications**
 
-- 🤝 I’m looking for help with **advanced Python logic, machine learning concepts, and crafting seamless UI/UX experiences**
+- 🤝 I’m looking for help with **advanced machine learning concepts, and crafting seamless UI/UX experiences**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fizzaaliawan](https://github.com/fizzaaliawan)
 
-- 💬 Ask me about **C++, Python, HTML/CSS, DBMS, OOP, DSA or resources I'm using to explore AI/ML and freelancing**
+- 💬 Ask me about **C++, Python, HTML/CSS, DBMS, OOP, DSA or AI/ML and freelancing**
 
 - 📫 How to reach me **fizza.awan102@gmail.com**
 

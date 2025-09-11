@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fizza Ali</h1>
-<h3 align="center">CS Undergrad | Aspiring AI/ML Developer | Web Dev Enthusiast</h3>
+<h3 align="center">CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast</h3>
 
 - 🔭 I’m currently working on **dynamic and user-friendly websites with a blend of creativity and clean code**
 

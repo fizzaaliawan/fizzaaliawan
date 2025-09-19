@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fizza Ali</h1>
 <h3 align="center">CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast</h3>
 
-- 🔭 I’m currently working on **dynamic and user-friendly websites with a blend of creativity and clean code**
+- 🔭 I’m currently working on **dynamic and user-friendly websites & apps with a blend of creativity and clean code**
 
 - 🌱 I’m currently learning **Python for AI/ML, diving into machine learning concepts and practical projects**
 
-- 👯 I’m looking to collaborate on **beginner-friendly projects in Python, web dev, or AI applications**
+- 👯 I’m looking to collaborate on **beginner-friendly projects in Python, web and app dev, or AI applications**
 
 - 🤝 I’m looking for help with **advanced machine learning concepts, and crafting seamless UI/UX experiences**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fizzaaliawan](https://github.com/fizzaaliawan)
-
-- 💬 Ask me about **C++, Python, HTML/CSS, DBMS, OOP, DSA or AI/ML and freelancing**
-
-- 📫 How to reach me **fizza.awan102@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fizza-ali-awan/](https://www.linkedin.com/in/fizza-ali-awan/)
 

@@ -2,9 +2,9 @@
 CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
 </h3>
 <ul>
-  <li>🔭 Building dynamic, user-friendly websites and mobile apps with clean, maintainable code</li>
+  <li>🔭 Building dynamic, user-friendly websites and mobile apps with clean and maintainable code</li>
   <li>🌱 Learning Python for AI/ML and exploring practical machine learning projects</li>
-  <li>👯 Open to collaborating on beginner-friendly projects in Python, web, app development, or AI</li>
+  <li>👯 Open to collaborating on beginner-friendly projects in Python, Web and App development or AI</li>
   <li>🤝 Seeking guidance on advanced machine learning concepts and improving UI/UX design</li>
   <li>💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex" target="_blank">View my Projects Portfolio</a></li>
 </ul>

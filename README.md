@@ -1,16 +1,14 @@
 <h3 align="center">
 CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
 </h3>
-
 <ul>
-  <li>🔭 Currently working on dynamic and user-friendly websites & apps with clean, creative code</li>
-  <li>🌱 Learning Python for AI/ML, exploring machine learning concepts and practical projects</li>
-  <li>👯 Open to collaboration on beginner-friendly projects in Python, web & app development, or AI</li>
-  <li>🤝 Seeking help with advanced machine learning concepts and better UI/UX design</li>
-  <li>👨‍💻 Projects Portfolio: 
-    <a href="https://github.com/fizzaaliawan/MyProjectsIndex">MyProjectsIndex</a>
-  </li>
-  <li>📄 LinkedIn: <a href="https://www.linkedin.com/in/fizza-ali-awan/">https://www.linkedin.com/in/fizza-ali-awan/</a></li>
+  <li>🔭 Building dynamic, user-friendly websites and mobile apps with clean, maintainable code</li>
+  <li>🌱 Learning Python for AI/ML and exploring practical machine learning projects</li>
+  <li>👯 Open to collaborating on beginner-friendly projects in Python, web, app development, or AI</li>
+  <li>🤝 Seeking guidance on advanced machine learning concepts and improving UI/UX design</li>
+  <li>💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex" target="_blank">View my Projects Portfolio</a></li>
+</ul>
+
 </ul>
 
 <h3 align="left">Connect with me:</h3>

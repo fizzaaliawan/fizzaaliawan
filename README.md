@@ -11,9 +11,8 @@ CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
 
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages</h3>
 <p align="left">
-
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
@@ -21,7 +20,10 @@ CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
+</p>
 
+<h3 align="left">Web Development</h3>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -33,19 +35,21 @@ CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
+</p>
 
+<h3 align="left">Mobile & Frameworks</h3>
+<p align="left">
   <a href="https://flutter.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   </a>
 
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
   </a>
+</p>
 
+<h3 align="left">Databases</h3>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -57,7 +61,17 @@ CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
   <a href="https://www.oracle.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
   </a>
+</p>
 
+<h3 align="left">Backend & Cloud</h3>
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Design & UI Tools</h3>
+<p align="left">
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   </a>
@@ -65,5 +79,5 @@ CS Undergrad | Aspiring AI/ML Developer | Web & Mobile App Dev Enthusiast
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40"/>
   </a>
-
 </p>
+

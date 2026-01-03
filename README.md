@@ -14,7 +14,7 @@ Passionate about building scalable applications, learning intelligent systems, a
   <li>💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex" target="_blank">Explore my Projects Portfolio</a></li>
 </ul>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 
 <p align="center">
 

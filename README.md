@@ -2,9 +2,9 @@
 CS Undergraduate | Aspiring AI/ML Developer | Web & Mobile App Developer
 </h3>
 
-<p align="center">
+<h2 align="center">
 Passionate about building scalable applications, learning intelligent systems, and crafting clean user experiences.
-</p>
+</h2>
 
 <ul>
   <li>🔭 Developing responsive web and mobile applications with a focus on clean, maintainable code</li>
@@ -16,7 +16,7 @@ Passionate about building scalable applications, learning intelligent systems, a
 
 <h3 align="left">Languages & Tools</h3>
 
-<p align="center">
+<p align="left">
 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>

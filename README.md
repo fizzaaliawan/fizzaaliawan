@@ -2,10 +2,6 @@
 CS Undergraduate | Aspiring AI/ML Developer | Web & Mobile App Developer
 </h2>
 
-<h3 align="center">
-Passionate about building scalable applications, learning intelligent systems, and crafting clean user experiences.
-</h3>
-
 <ul>
   <li>🔭 Developing responsive web and mobile applications with a focus on clean, maintainable code</li>
   <li>🌱 Currently learning Python for AI/ML and working on hands-on machine learning projects</li>

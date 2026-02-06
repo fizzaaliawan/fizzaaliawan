@@ -54,19 +54,20 @@ CS Undergraduate | Gaining Experience in AI, ML & Automation | Web & Mobile App 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
   </a>
-  <a href="https://www.n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n-icons/master/n8n.svg" width="42" height="42"/>
-  </a>
-  <a href="https://www.gohighlevel.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/GoHighLevel_logo.png" width="42" height="42"/>
-  </a>
-  <a href="https://retell.ai/" target="_blank">
-    <img src="https://retell.ai/favicon-32x32.png" width="42" height="42"/>
-  </a>
-  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/office/office-original.svg" width="42" height="42"/>
-  </a>
-  <a href="https://www.google.com/search?q=SEO" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SEO-Icon.png" width="42" height="42"/>
-  </a>
+<a href="https://www.n8n.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n-icons/master/n8n.svg" width="42" height="42"/>
+</a>
+
+<a href="https://www.gohighlevel.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/GoHighLevel_logo.png" width="42" height="42" style="background:white;"/>
+</a>
+
+<a href="https://retell.ai/" target="_blank">
+  <img src="https://retell.ai/favicon-32x32.png" width="42" height="42" style="background:white;"/>
+</a>
+
+<a href="https://www.google.com/search?q=SEO" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Search_Engine_Optimization_Icon.png" width="42" height="42" style="background:white;"/>
+</a>
+
 </p>

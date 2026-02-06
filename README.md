@@ -3,9 +3,9 @@
 </p>
 
 <p align="left">
-🌱 Building projects in AI, ML, Automation, Web & Mobile Development<br/>
-💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex">Explore my Projects Portfolio</a><br/>
-👯 Open to collaborations, internships & beginner-friendly projects
+• 🌱 Building projects in AI, ML, Automation, Web & Mobile Development<br/>
+• 💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex">Explore my Projects Portfolio</a><br/>
+• 👯 Open to collaborations, internships & beginner-friendly projects
 </p>
 
 <br/>

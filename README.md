@@ -1,7 +1,6 @@
- <h2 align="center">
-CS Undergraduate | Gaining Experience in AI, ML & Automation | Web & Mobile App Developer
-</h2>
-
+<p align="center">
+  <strong>CS Undergraduate | Gaining Experience in AI, ML & Automation | Web & Mobile App Developer</strong>
+</p>
 <ul>
   <li>🌱 Building skills in AI, ML, Automation, Web & Mobile Development</li>
   <li>💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex" target="_blank">Explore my Projects Portfolio</a></li>

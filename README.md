@@ -2,17 +2,15 @@
   <strong>CS Undergraduate | AI, ML & Automation Enthusiast | Web & Mobile App Developer</strong>
 </p>
 
-<p align="center">
-  🌱 Building projects in AI, ML, Automation, Web & Mobile Development  
+<p align="left">
+ • Building projects in AI, ML, Automation, Web & Mobile Development  
   <br/>
-  💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex">Explore my Projects Portfolio</a>  
+ • <a href="https://github.com/fizzaaliawan/MyProjectsIndex">Explore my Projects Portfolio</a>  
   <br/>
-  👯 Open to collaborations, internships & beginner-friendly projects
+• Open to collaborations, internships & beginner-friendly projects
 </p>
 
 <br/>
-
-<strong>Skills</strong><br/>
 
 <strong>Languages:</strong> Python • C++ • HTML • CSS • JavaScript • TypeScript • Dart  
 <strong>Frameworks/Libraries:</strong> React.js • Next.js • Flutter • Tailwind CSS • Node.js  

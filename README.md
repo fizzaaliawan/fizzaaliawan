@@ -10,6 +10,6 @@
 
 <br/>
 
-<strong>Languages:</strong> Python • C++ • HTML • CSS • JavaScript • TypeScript • Dart  
+<strong>Languages:</strong>            Python • C++ • HTML • CSS • JavaScript • TypeScript • Dart  
 <strong>Frameworks/Libraries:</strong> React.js • Next.js • Flutter • Tailwind CSS • Node.js  
-<strong>Tools & Platforms:</strong> Firebase • Git/GitHub • n8n • GoHighLevel • Retell • Figma • Canva • SEO • MS Office
+<strong>Tools & Platforms:</strong>    Firebase • Git/GitHub • n8n • GoHighLevel • Retell • Figma • Canva • SEO • MS Office

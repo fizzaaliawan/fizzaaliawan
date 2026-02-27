@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-• 🌱 Building projects in AI/ML, Web & Mobile Development<br/>
+• 🌱 Building projects in AI/ML , Web & Mobile App Development<br/>
 • 💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex">Explore my Projects Portfolio</a><br/>
 • 👯 Open to collaborations, internships & beginner-friendly projects<br/>
 <strong>• 🧠 Languages:</strong> Python | C++ | HTML | CSS | JavaScript | TypeScript | Dart <br/> 

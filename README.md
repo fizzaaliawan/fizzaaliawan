@@ -4,10 +4,8 @@
 
 <p align="left">
 • 🌱 Building projects in AI/ML , Web & Mobile App Development<br/>
-• 💼 <a href="https://github.com/fizzaaliawan/MyProjectsIndex">Explore my Projects Portfolio</a><br/>
 • 👯 Open to collaborations, internships & beginner-friendly projects<br/>
-<strong>• 🧠 Languages:</strong> Python | C++ | HTML | CSS | JavaScript | TypeScript | Dart <br/> 
-<strong>• ⚙️ Frameworks/Libraries:</strong> React.js | Next.js | Flutter | Tailwind CSS | Node.js <br/>
+<strong>• ⚙️ Languages and Frameworks :</strong> Python | C++ | HTML | CSS | JavaScript | Flutter | Dart <br/> 
 <strong>• 🛠️ Tools & Platforms:</strong> Firebase | Git/GitHub | Figma | Canva | SEO | MS Office<br/>
 </p>
 

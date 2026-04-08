@@ -6,7 +6,6 @@
 • 🌱 Building projects in AI/ML , Web & Mobile App Development<br/>
 • 👯 Open to collaborations, internships & beginner-friendly projects<br/>
 <strong>• ⚙️ Languages and Frameworks :</strong> Python | C++ | HTML | CSS | JavaScript | Flutter | Dart <br/> 
-<strong>• 🛠️ Tools & Platforms:</strong> Firebase | Figma | Canva <br/>
 </p>
 
 <br/>

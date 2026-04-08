@@ -2,10 +2,29 @@
   <strong>CS Undergraduate | AI/ML Enthusiast | Web & Mobile App Developer</strong>
 </p>
 
-<p align="left">
-• 🌱 Building projects in AI/ML , Web & Mobile App Development<br/>
-• 👯 Open to collaborations, internships & beginner-friendly projects<br/>
-<strong>• ⚙️ Languages and Frameworks :</strong> Python | C++ | HTML | CSS | JavaScript | Flutter | Dart <br/> 
-</p>
+---
 
-<br/>
+### 👩‍💻 About Me
+
+* 🌱 Currently building projects in **AI/ML, Web, and Mobile App Development**
+* 👯 Open to **collaborations, internships, and exciting projects**
+* 🎯 Passionate about solving real-world problems through technology
+
+---
+
+### ⚙️ Tech Stack
+
+* **Languages:** Python, C++
+* **Web:** HTML, CSS, JavaScript
+* **Mobile:** Flutter, Dart
+
+---
+
+### 📌 What I'm Working On
+
+* Improving my skills in **Machine Learning & App Development**
+* Building practical and user-focused projects
+
+---
+
+

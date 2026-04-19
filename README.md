@@ -6,9 +6,9 @@
 
 ### 👩‍💻 About Me
 
-* 🌱 Currently building projects in **AI/ML, Web, and Mobile App Development**
-* 👯 Open to **collaborations, internships, and exciting projects**
-* 🎯 Passionate about solving real-world problems through technology
+* Currently building projects in **AI/ML, Web, and Mobile App Development**
+* Open to **collaborations, internships, and exciting projects**
+* Passionate about solving real-world problems through technology
 
 ---
 
